@@ -21,7 +21,6 @@ function App() {
            src="/easy2.png" 
            onClick={play_audio}
       />
-      test
     </div>
   );
 }

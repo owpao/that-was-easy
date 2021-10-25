@@ -1,6 +1,5 @@
 {
   "name": "that-was-easy",
-  "homepage": "https://owpao.github.io/that-was-easy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
