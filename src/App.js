@@ -1,23 +1,26 @@
-import logo from './logo.svg';
+/* eslint-disable jsx-a11y/alt-text */
 import './App.css';
+import useSound from 'use-sound'
 
 function App() {
+
+  const CLICK_URL = "/clicksoundeffect.mp3"
+  const EASY_URL = "/that_was_easy.mp3"
+
+  let [playEasy] = useSound(EASY_URL)
+  let [playClick] = useSound(CLICK_URL)
+
+  let play_audio = function () {
+      playClick()
+      setTimeout(playEasy,150)
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <img className="that-was-easy-img" 
+           src="/easy2.png" 
+           onClick={play_audio}
+      />
     </div>
   );
 }
