@@ -18,9 +18,4 @@ img.that-was-easy-img {
 
 img.that-was-easy-img:active {
   filter: none;
-  opacity: 100%;
-}
-
-img.that-was-easy-img:hover {
-  opacity: 90%;
 }
