@@ -1,14 +1,14 @@
 /* eslint-disable jsx-a11y/alt-text */
 import './App.css';
 import useSound from 'use-sound'
+import EASY_SOUND from "./assets/that_was_easy.mp3"
+import CLICK_SOUND from "./assets/clicksoundeffect.mp3"
+import BUTTON_IMG from "./assets/easy2.png"
 
 function App() {
 
-  const CLICK_URL = "/clicksoundeffect.mp3"
-  const EASY_URL = "/that_was_easy.mp3"
-
-  let [playEasy] = useSound(EASY_URL)
-  let [playClick] = useSound(CLICK_URL)
+  let [playEasy] = useSound(EASY_SOUND)
+  let [playClick] = useSound(CLICK_SOUND)
 
   let play_audio = function () {
       playClick()
@@ -18,8 +18,8 @@ function App() {
   return (
     <div className="App">
       <img className="that-was-easy-img" 
-           src="/easy2.png" 
-           onClick={play_audio}
+           src={BUTTON_IMG} 
+           onMouseDown={play_audio}
       />
     </div>
   );
