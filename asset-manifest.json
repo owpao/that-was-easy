@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/that-was-easy/static/css/main.6dcaedef.chunk.css",
+    "main.css": "/that-was-easy/static/css/main.d2240ded.chunk.css",
     "main.js": "/that-was-easy/static/js/main.be2cbcc9.chunk.js",
     "main.js.map": "/that-was-easy/static/js/main.be2cbcc9.chunk.js.map",
     "runtime-main.js": "/that-was-easy/static/js/runtime-main.5a4f44f6.js",
@@ -12,7 +12,7 @@
     "static/js/4.d3066b33.chunk.js": "/that-was-easy/static/js/4.d3066b33.chunk.js",
     "static/js/4.d3066b33.chunk.js.map": "/that-was-easy/static/js/4.d3066b33.chunk.js.map",
     "index.html": "/that-was-easy/index.html",
-    "static/css/main.6dcaedef.chunk.css.map": "/that-was-easy/static/css/main.6dcaedef.chunk.css.map",
+    "static/css/main.d2240ded.chunk.css.map": "/that-was-easy/static/css/main.d2240ded.chunk.css.map",
     "static/js/2.ee8f8615.chunk.js.LICENSE.txt": "/that-was-easy/static/js/2.ee8f8615.chunk.js.LICENSE.txt",
     "static/js/3.a778a6fb.chunk.js.LICENSE.txt": "/that-was-easy/static/js/3.a778a6fb.chunk.js.LICENSE.txt",
     "static/media/clicksoundeffect.15b61204.mp3": "/that-was-easy/static/media/clicksoundeffect.15b61204.mp3",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.5a4f44f6.js",
     "static/js/2.ee8f8615.chunk.js",
-    "static/css/main.6dcaedef.chunk.css",
+    "static/css/main.d2240ded.chunk.css",
     "static/js/main.be2cbcc9.chunk.js"
   ]
 }
