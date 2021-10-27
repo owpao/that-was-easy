@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/that-was-easy/static/css/main.6dcaedef.chunk.css",
-    "main.js": "/that-was-easy/static/js/main.20d07b66.chunk.js",
-    "main.js.map": "/that-was-easy/static/js/main.20d07b66.chunk.js.map",
+    "main.js": "/that-was-easy/static/js/main.be2cbcc9.chunk.js",
+    "main.js.map": "/that-was-easy/static/js/main.be2cbcc9.chunk.js.map",
     "runtime-main.js": "/that-was-easy/static/js/runtime-main.5a4f44f6.js",
     "runtime-main.js.map": "/that-was-easy/static/js/runtime-main.5a4f44f6.js.map",
     "static/js/2.ee8f8615.chunk.js": "/that-was-easy/static/js/2.ee8f8615.chunk.js",
@@ -14,12 +14,15 @@
     "index.html": "/that-was-easy/index.html",
     "static/css/main.6dcaedef.chunk.css.map": "/that-was-easy/static/css/main.6dcaedef.chunk.css.map",
     "static/js/2.ee8f8615.chunk.js.LICENSE.txt": "/that-was-easy/static/js/2.ee8f8615.chunk.js.LICENSE.txt",
-    "static/js/3.a778a6fb.chunk.js.LICENSE.txt": "/that-was-easy/static/js/3.a778a6fb.chunk.js.LICENSE.txt"
+    "static/js/3.a778a6fb.chunk.js.LICENSE.txt": "/that-was-easy/static/js/3.a778a6fb.chunk.js.LICENSE.txt",
+    "static/media/clicksoundeffect.15b61204.mp3": "/that-was-easy/static/media/clicksoundeffect.15b61204.mp3",
+    "static/media/easy2.8454679b.png": "/that-was-easy/static/media/easy2.8454679b.png",
+    "static/media/that_was_easy.be5114f9.mp3": "/that-was-easy/static/media/that_was_easy.be5114f9.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.5a4f44f6.js",
     "static/js/2.ee8f8615.chunk.js",
     "static/css/main.6dcaedef.chunk.css",
-    "static/js/main.20d07b66.chunk.js"
+    "static/js/main.be2cbcc9.chunk.js"
   ]
 }
